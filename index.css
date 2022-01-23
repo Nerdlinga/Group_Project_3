@@ -1,0 +1,9 @@
+.jumbotron {
+    color: whitesmoke;
+    font-family: 'Poppins';
+}
+
+.btn-primary {
+    background-color: purple;
+    border-color: purple;
+}
