@@ -8,4 +8,29 @@
     
 }
 
-/* Cards */
+.content {
+    display: flex;
+  justify-content: center;
+  flex-direction: row;
+  padding: 30px;
+}
+
+.tellmemore {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding: 30px;
+
+}
+
+.button {
+    transition-duration: 0.4s;
+    background-color: lightcoral;
+    border: 2px solid purple;
+    border-radius: 4px;
+}
+
+.button:hover {
+    background-color: purple;
+    color: white;
+  }
