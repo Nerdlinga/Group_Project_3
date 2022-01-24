@@ -8,8 +8,6 @@
     border: #6D6C6C;
 }
 
-
-
 .content {
     display: flex;
   justify-content: center;
@@ -38,3 +36,23 @@
     background-color: #814FD4;
     color: white;
   }
+
+h1 {
+    font-family: 'Poppins';
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'Poppins';
+    font-weight: bold;
+}
+
+h3 {
+    font-family: 'Poppins';
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Poppins';
+    font-size: large;
+}
