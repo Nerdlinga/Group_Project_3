@@ -17,9 +17,9 @@
 
 .tellmemore {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     flex-direction: row;
-    padding: 30px;
+    padding: 40px;
 
 }
 
@@ -58,6 +58,12 @@ p {
 }
 
 
+.screenshots {
+    
+    justify-content: center;
+    flex-direction: row;
+    padding: 30px;
+}
 
 #footer .twitter {
   background-image: url(http://manstyle.coralixthemes.com/dark/img/dark/icons/footer-icons.png);
