@@ -15,12 +15,8 @@
   padding: 30px;
 }
 
-.tellmemore {
+blockquote mb-0 {
     display: flex;
-    justify-content: left;
-    flex-direction: row;
-    padding: 40px;
-
 }
 
 .button {
